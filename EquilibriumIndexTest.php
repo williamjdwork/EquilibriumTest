@@ -10,3 +10,5 @@ class EquilibriumIndex extends PHPUnit_Framework_TestCase
 		$this->assertEquals(array(3,6), getEquilibriums($arr));
 	}
 }
+
+
